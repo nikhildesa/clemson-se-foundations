@@ -16,5 +16,6 @@ public class Main {
         for (Person p : persons) {
             System.out.println(p);
         }
+        System.out.println("Hi");
     }
 }
